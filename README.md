@@ -32,7 +32,7 @@
 
   **4.WORKING PRINCIPLE**  
  The electric greeting card works on the principle of a closed electrical circuit.
-! [Result](simulation.jpg)
+![simulation](simulation.jpg)
      When the card's switch is pressed or the card is opened in a way that closes the hidden contact:
 
 * 1\. The battery supplies electrical energy.  
