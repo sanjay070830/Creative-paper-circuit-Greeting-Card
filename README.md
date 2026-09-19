@@ -22,7 +22,7 @@
 
 *  **Step 1 – Prepare the card**                                                                       
 * **Step 2 – Design the card**  
-* **Step 3 – Place the LED              ![Result](Result.jpg)                                 
+* **Step 3 – Place the LED                            
 * **Step 4 – Fix the battery**  
 * **Step 5 – Make the electrical connections**  
 * **Step 6 – Create the switch**  
@@ -71,6 +71,7 @@ Decorate the card
 Final testing
 
 **6\. RESULT**
+![Result](Result.jpg)                 
 
 * The electric greeting card was successfully designed and assembled using a battery-powered LED circuit. When the switch is activated, the electrical circuit is completed and the LED illuminates, producing an attractive visual effect.
 
