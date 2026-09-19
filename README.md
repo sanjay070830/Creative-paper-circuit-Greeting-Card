@@ -22,7 +22,7 @@
 
 *  **Step 1 – Prepare the card**                                                                       
 * **Step 2 – Design the card**  
-* **Step 3 – Place the LED                                                              ![][image1]**  
+* **Step 3 – Place the LED              ![Result](Result.jpg)                                 
 * **Step 4 – Fix the battery**  
 * **Step 5 – Make the electrical connections**  
 * **Step 6 – Create the switch**  
